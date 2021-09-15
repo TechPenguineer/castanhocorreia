@@ -1,5 +1,6 @@
 from datetime import datetime
 from dateutil import relativedelta
+import requests
 
 birthDate = datetime(1998, 7, 2)
 currentDate = datetime(datetime.today().year, datetime.today().month, datetime.today().day)
