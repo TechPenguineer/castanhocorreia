@@ -5,7 +5,7 @@ $ castanhocorreia in ~ at github
 ________________________________
 
 
-           /^\/^\                                       Uptime: "23 years, 2 months, 13 days"
+           /^\/^\                                       Uptime: "23 years, 2 months, 14 days"
          _|__|  O|                                      IDE: "Visual Studio Code"
 \/     /~     \_/ \                                     OS: "Fedora 34"
  \____|__________/  \                                   Shell: "zsh"

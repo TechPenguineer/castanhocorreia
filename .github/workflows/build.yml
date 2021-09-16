@@ -20,7 +20,7 @@ jobs:
       - name: Get dateutil
         run: pip install python-dateutil
       - name: Update README file
-        run: python today.py
+        run: python uptime.py
       - name: Commit
         run: |-
           git add .
