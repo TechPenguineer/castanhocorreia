@@ -42,7 +42,7 @@ def formatNumeralConcord():
 def formatUptimeString():
   days = formatNumeralConcord()[1]
   months = formatNumeralConcord()[0]
-  return '           /^\/^\                                                 Uptime: "{} years, {} {}, {} {}\n'.format(delta.years, delta.months, months, delta.days, days)
+  return '           /^\/^\                                                 Uptime: "{} years, {} {}, {} {}"\n'.format(delta.years, delta.months, months, delta.days, days)
 
 def overwriteFile():
   with open('README.md', 'r') as file:

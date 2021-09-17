@@ -3,7 +3,7 @@ $ castanhocorreia in ~ at github
 > whoami --human-readable
 ________________________________
 
-           /^\/^\                                                 Uptime: "23 years, 2 months, 15 days
+           /^\/^\                                                 Uptime: "23 years, 2 months, 15 days"
          _|__|  O|                                                IDE: "Visual Studio Code"
 \/     /~     \_/ \                                               OS: "Fedora 34"
  \____|__________/  \                                             Shell: "zsh"
