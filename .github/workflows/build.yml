@@ -17,10 +17,12 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
+      - name: Get beautifulsoup4
+        run: pip install beautifulsoup4
       - name: Get dateutil
         run: pip install python-dateutil
       - name: Update README file
-        run: python uptime.py
+        run: python update.py
       - name: Commit
         run: |-
           git add .
