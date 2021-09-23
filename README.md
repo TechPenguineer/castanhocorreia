@@ -10,14 +10,14 @@ ________________________________
         \_______      \                                           Email: "castanhocorreia.dev@gmail.com"
                 `\     \                 \                        Discord: "Castanho#3564"
                   |     |                  \
-                 /      /                    \                    Commits: 581
+                 /      /                    \                    Commits: 590
                 /     /                       /\                  Issues: 3
               /      /                         \ \                Pull Requests: 27
              /     /                            \  \
            /     /             _----_            \   \            Top Languages
           /     /           _-~      ~-_         |   |            ----
-         (      (        _-~    _--_    ~-_     _/   |            JavaScript: 90.26%
-          \      ~-____-~    _-~    ~-_    ~-_-~    /             Java: 6.66%
-            ~-_           _-~          ~-_       _-~              TypeScript: 2.01%
-               ~--______-~                ~-___-~                 Python: 1.07%
+         (      (        _-~    _--_    ~-_     _/   |            JavaScript: 90.96%
+          \      ~-____-~    _-~    ~-_    ~-_-~    /             Java: 5.82%
+            ~-_           _-~          ~-_       _-~              TypeScript: 2.03%
+               ~--______-~                ~-___-~                 Python: 1.20%
 ```
