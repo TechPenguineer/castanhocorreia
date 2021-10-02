@@ -40,8 +40,8 @@ delta = relativedelta.relativedelta(currentDate, birthDate)
 
 def formatNumeralConcord():
     concord = []
-    concord.append('month') if delta.months <= 1 else concord.append('months')
-    concord.append('day') if delta.days <= 1 else concord.append('days')
+    concord.append('month') if delta.months == 1 else concord.append('months')
+    concord.append('day') if delta.days == 1 else concord.append('days')
     return concord
 
 
