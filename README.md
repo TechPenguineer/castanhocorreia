@@ -3,21 +3,21 @@ $ castanhocorreia in ~ at github
 > whoami --human-readable
 ________________________________
 
-           /^\/^\                                                 Uptime: "23 years, 3 months, 28 days"
+           /^\/^\                                                 Uptime: "23 years, 3 months, 29 days"
          _|__|  O|                                                IDE: "Visual Studio Code"
 \/     /~     \_/ \                                               OS: "Fedora 34"
  \____|__________/  \                                             Shell: "zsh"
         \_______      \                                           Email: "castanhocorreia.dev@gmail.com"
                 `\     \                 \                        Discord: "Castanho#3564"
                   |     |                  \
-                 /      /                    \                    Commits: 755
+                 /      /                    \                    Commits: 765
                 /     /                       /\                  Issues: 3
-              /      /                         \ \                Pull Requests: 32
+              /      /                         \ \                Pull Requests: 33
              /     /                            \  \
            /     /             _----_            \   \            Top Languages
           /     /           _-~      ~-_         |   |            ----
-         (      (        _-~    _--_    ~-_     _/   |            JavaScript: 66.75%
-          \      ~-____-~    _-~    ~-_    ~-_-~    /             Java: 31.60%
-            ~-_           _-~          ~-_       _-~              Python: 0.85%
-               ~--______-~                ~-___-~                 TypeScript: 0.80%
+         (      (        _-~    _--_    ~-_     _/   |            JavaScript: 64.44%
+          \      ~-____-~    _-~    ~-_    ~-_-~    /             Java: 33.97%
+            ~-_           _-~          ~-_       _-~              Python: 0.82%
+               ~--______-~                ~-___-~                 TypeScript: 0.77%
 ```
